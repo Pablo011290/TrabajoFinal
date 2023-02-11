@@ -46,10 +46,10 @@ html{
     text-decoration: none;
 }
 .contenedor-header header ul li a:hover{
-    color: #1CB698;
+    color: #1c6cb6;
 }
 .nav-responsive{
-    background-color: #1CB698;
+    background-color: #1c6cb6;
     color: #fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -66,7 +66,7 @@ html{
     align-items: center;
 }
 .inicio .contenedor-banner{
-    padding: 20xp;
+    padding: 20px;
     background-color: #1e2326;
     max-width: 350px;
     margin: auto;
@@ -76,7 +76,7 @@ html{
 }
 .inicio .contenedor-banner img{
     margin-top: 40px;
-    border: 10px solid #1CB698;
+    border: 10px solid #1c6cb6;
     display: block;
     width: 80%;
     margin: auto;
@@ -105,5 +105,5 @@ html{
     transition: .3s;
 }
 .inicio .contenedor-banner .redes a:hover{
-    background-color: #1CB698;
+    background-color: #1c6cb6
 }
